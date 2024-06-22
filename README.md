@@ -9,8 +9,8 @@ Hi there! 👋 I'm an aspiring software developer 🔍 on a journey to becoming 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damianleng&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=damianleng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+# 🧑‍💻 Leetcode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Miannnn?theme=dark&font=Outfit)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=damianleng&icon=0&color=0)](https://visitcount.itsvg.in)
