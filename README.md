@@ -7,7 +7,6 @@ Hi there! 👋 I'm an aspiring software developer 🔍 on a journey to becoming 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=damianleng&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=damianleng&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damianleng&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🧑‍💻 Leetcode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Miannnn?theme=dark&font=Outfit)
